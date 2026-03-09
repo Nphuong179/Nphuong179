@@ -4,7 +4,7 @@
 
 ### 📜 Credentials
 [![Power BI Data Analyst Associate](https://img.shields.io/badge/Microsoft-Power_BI_Data_Analyst_Associate-0078D4?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/PhuongNguyen-0013/818ED47FBC11E1C9?sharingId=3AF31EF604BE4E0)
-- HackerRank: SQL Advanced
+[![HackerRank: SQL Advanced](https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg)](https://www.hackerrank.com/certificates/62f142e851e8)
 
 ### 📫 Reach me
 nphuong.nguyen281@gmail.com
